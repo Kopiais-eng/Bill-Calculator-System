@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ICT603-PROJECT_INDI</string>
+
+    <!-- Add this array for the months -->
+    <string-array name="months_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string name="select_month">Select Month</string>
+    <string name="electricity_unit_kwh">Electricity Unit (kWh)</string>
+    <string name="e_g_500">e.g., 500</string>
+    <string name="rebate_percentage">Rebate Percentage (%)</string>
+    <string name="_0_5">0-5</string>
+    <string name="calculate_bill">Calculate Bill</string>
+    <string name="history">History</string>
+    <string name="your_bill_will_be_shown_here">Your bill will be shown here</string>
+
+    <!-- Profile Page Strings -->
+    <string name="profile_picture">Profile Picture</string>
+    <string name="full_name">KHAIRIL AHMAD BIN SHARUL NIZAM</string>
+    <string name="student_id">2024154141</string>
+    <string name="course_code">ICT602 - MOBILE TECHNOLOGY AND DEVELOPMENT</string>
+    <string name="copyright">© 2025 current, all right reserved electricity bill calculator</string>
+    <string name="profile">Profile</string>
+    <string name="github_link">Visit My Github</string>
+
+</resources>
